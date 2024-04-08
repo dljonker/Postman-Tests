@@ -29,7 +29,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"email\" : \"davy@dljonker.com\",\r\n    \"password\" : \"XMa4pwZk2qTFoE\"\r\n}",
+							"raw": "{\r\n    \"email\" : \"email@email\",\r\n    \"password\" : \"XMa4pwZk2qTFoE\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
