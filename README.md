@@ -1,2 +1,2 @@
 # Postman-Tests
- Tests in Postman
+ Repository for my tests created on Postman.
